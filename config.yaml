@@ -1,0 +1,17 @@
+"cookie": 
+    "expiry_days": 30
+    "key": "1234"
+    "name": "redlac_cookie" 
+"credentials":
+    "usernames":
+        "rodrigo":
+            "email": "rodrigo@gmail.com"
+            "name": "redlac"
+            "password": "redlac"
+        "catalina":
+            "email": "catalina@gmail.com"
+            "name": "catalina"
+            "password": "catalinaRedlac"
+"preauthorized":
+    "emails":
+        "rodrigo@gmail.com"
